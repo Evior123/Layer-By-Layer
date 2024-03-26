@@ -1,0 +1,12 @@
+html {
+  background: -webkit-linear-gradient(left, #0040ffbe, hsl(340, 88%, 66%));
+}
+
+body {
+  background: -webkit-linear-gradient(left, #0040ffbe, hsl(340, 88%, 66%));
+}
+
+::selection {
+  background: #fa2b2b;
+  color: #fff;
+}

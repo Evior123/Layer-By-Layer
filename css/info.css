@@ -1,0 +1,25 @@
+body {
+    background: -webkit-linear-gradient(right, #0635c2be, hsl(340, 88%, 66%));
+  }
+  
+  .contact {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  ::selection {
+    background: #fa2b2b;
+    color: #fff;
+  }
+  p{
+    font-family: "MedievalSharp", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 25px;
+  }
+  
